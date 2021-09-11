@@ -7,8 +7,7 @@ bod = pd.read_csv('bod.csv', index_col =[0])
 bod.columns
 company = pd.read_csv('company_list.csv', index_col=[0])
 company.head(10)
-bod.drop_duplicates(subset = ['Name', 'Position', 'Grade', 'YearOfBirth', 'PersonalShares',
-    'FromDate', 'ClosedDate', 'StockCode'],keep = False, inplace=True)
+bod.drop_duplicates(subset = ['Name', 'YearOfBirth', 'StockCode'],keep = False, inplace=True)
 bod['Name'] = bod.apply(lambda x: re.sub(r'(^\w{2,3}\. ?)', r'', x['Name']),axis=1)
 
 #Group by to attach id to individuals
