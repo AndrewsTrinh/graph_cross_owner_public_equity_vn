@@ -25,15 +25,15 @@ edge.StockCode.describe()
 def map_data():
     g = Network(height='1500px',width ='100%',bgcolor='#222222',font_color='white')
     for index, row in bod_agg.iterrows():
-        if row['StockCode'] >=2:
-            g.add_node(row['id'], label =row['Name']+','+str(row['YearOfBirth']), color='#FF3008')
+        if row['StockCode'] >=5:
+            g.add_node(row['id'], label =row['Name']+','+str(row['YearOfBirth']), color='purple',size=150)
         else:
             g.add_node(row['id'], label =row['Name'])
     for index, row in edge.iterrows():
         g.add_node(row['StockCode'], color ='#DED007')
         g.add_edge(row['StockCode'],row['id'])
     g.barnes_hut()
-    g.show("test_v3.html")
+    g.show("result.html")
 
 map_data()
 
