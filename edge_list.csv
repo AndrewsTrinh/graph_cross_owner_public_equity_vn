@@ -1,0 +1,1584 @@
+,id,StockCode,Position
+0,6812,AAA,Chairman of BOD
+1,6812,APH,Chairman of BOD
+2,3287,AAA,CEO/Member of BOD
+3,3287,APH,Member of BOD
+4,6188,AAA,Member of BOD
+5,6188,APH,Member of BOD
+6,9087,AAA,Member of BOD
+7,9087,APH,CEO/Member of BOD
+8,9087,HII,Chairman of BOD
+9,9087,VBC,Member of Supervisory Board
+10,4637,AAA,Member of BOD
+11,4637,APH,Deputy CEO/Member of BOD
+12,1220,AAA,Deputy CEO/Member of BOD
+13,1220,NHH,Member of BOD
+14,3797,AAV,Chairman of BOD
+15,3797,THS,CEO/Member of BOD
+16,4855,AAV,Chief Accountant/Deputy CEO/Member of BOD
+17,4855,HQC,Member of BOD
+18,8687,ABS,Member of BOD
+19,8687,DL1,Member of Supervisory Board
+20,5093,ABT,Chairman of BOD
+21,5093,FMC,Member of BOD
+22,5093,LAF,Chairman of BOD
+23,5093,SSI,Chief of Supervisory Board
+24,1265,ABT,Member of BOD
+25,1265,FMC,Chairman of BOD
+26,5708,ABT,Member of Supervisory Board
+27,5708,LAF,Chief of Supervisory Board
+28,9021,ACB,Member of BOD
+29,9021,TVS,Vice Chairman of BOD
+30,9123,AFC,Chairman of BOD
+31,9123,NNC,Member of BOD
+32,9123,TLP,Chairman of BOD
+33,6466,AFC,Chief of Supervisory Board
+34,6466,MCC,Member of BOD
+35,6466,TLP,CEO/Member of BOD
+36,4789,AG1,Chairman of BOD
+37,4789,APP,Chairman of BOD
+38,2533,AG1,Chief of Supervisory Board
+39,2533,ATD,Chief of Supervisory Board
+40,5257,AG1,Member of BOD
+41,5257,ATD,Deputy CEO
+42,8612,AGG,Member of BOD/Member of Internal Audit
+43,8612,SPP,Member of BOD
+44,9638,AGG,Cheif of Internal Audit/Member of BOD
+45,9638,DHG,Cheif of Internal Audit/Member of BOD
+46,9638,GTN,Member of BOD
+47,9638,VNM,Member of BOD
+48,5410,AGM,Chief of Supervisory Board
+49,5410,LDP,Chief of Supervisory Board
+50,9124,AGM,Member of BOD
+51,9124,VLF,Member of BOD
+52,8642,AGM,Member of BOD
+53,8642,LDP,Member of BOD
+54,8334,AGM,Member of BOD
+55,8334,LDP,Vice Chairman of BOD
+56,8561,AGM,Member of Supervisory Board
+57,8561,LDP,Member of Supervisory Board
+58,4195,AGR,Member of Supervisory Board
+59,4195,TB8,Chief of Supervisory Board
+60,5521,AMD,CEO/Member of BOD
+61,5521,GAB,Chairman of BOD
+62,5521,HAI,Deputy CEO/Member of BOD
+63,5521,KLF,CEO/Member of BOD
+64,4262,AMD,Chief of Supervisory Board
+65,4262,MEL,Deputy CEO
+66,4762,AMD,Chief Accountant
+67,4762,PBP,Director/Member of BOD
+68,5499,AMD,Member of Supervisory Board
+69,5499,FLC,Member of Supervisory Board
+70,5499,GAB,Member of Supervisory Board
+71,5499,HAI,Member of Supervisory Board
+72,5499,KLF,Member of Supervisory Board
+73,6125,AMD,Member of Supervisory Board
+74,6125,FLC,Member of Supervisory Board
+75,6125,HAI,Member of Supervisory Board
+76,6125,KLF,Member of Supervisory Board
+77,8054,AMP,Vice Chairman of BOD
+78,8054,HAB,Member of BOD
+79,2706,AMP,Member of BOD
+80,2706,HTI,Member of BOD
+81,2706,VBH,Chairman of BOD
+82,2706,X77,Chief Accountant/Member of BOD
+83,2888,AMP,Member of BOD
+84,2888,HAB,Member of BOD
+85,2888,SHS,Member of BOD
+86,1931,AMV,Chief of Supervisory Board
+87,1931,BPC,Chief of Supervisory Board
+88,3100,APG,Chairman of BOD
+89,3100,PLP,Member of BOD
+90,2585,APG,Member of BOD
+91,2585,LGL,Member of BOD
+92,2585,PLP,Chairman of BOD
+93,3404,APG,Deputy CEO
+94,3404,VNR,Deputy CEO
+95,1216,API,Chairman of BOD
+96,1216,IDJ,Chairman of BOD
+97,4464,API,Chief of Supervisory Board
+98,4464,IDJ,Chief of Supervisory Board
+99,4464,MVY,Member of Supervisory Board
+100,4464,PET,Chief Accountant
+101,2954,API,Chief Accountant
+102,2954,APS,Member of Supervisory Board
+103,2954,IDJ,Member of Supervisory Board
+104,5515,API,Member of BOD
+105,5515,APS,CEO
+106,5515,IDJ,Member of BOD
+107,2985,API,Deputy CEO
+108,2985,IDJ,Member of BOD
+109,7563,APL,Chief of Supervisory Board
+110,7563,TB8,Member of Supervisory Board
+111,6168,APS,Chairman of BOD
+112,6168,IDJ,Member of BOD
+113,3605,APS,Member of BOD
+114,3605,HBW,Chief of Supervisory Board
+115,4714,ARM,Member of Supervisory Board
+116,4714,DVP,Vice Chairman of BOD
+117,4714,NAS,Chief of Supervisory Board
+118,4714,PVV,Deputy Director
+119,4714,TLP,Member of BOD
+120,4714,VBH,Chairman of BOD
+121,4287,ASG,Chief Accountant
+122,4287,CIA,Chief of Supervisory Board
+123,2363,ASG,Member of BOD
+124,2363,CIA,Member of BOD
+125,7053,ASG,Deputy CEO
+126,7053,CIA,Chairman of BOD
+127,1856,ASM,CEO/Member of BOD
+128,1856,DAT,Member of BOD
+129,1856,IDI,Chairman of BOD
+130,5734,ASM,Chief Accountant
+131,5734,IDI,Member of Internal Audit
+132,2215,ASM,Deputy CEO
+133,2215,DAT,CEO
+134,5055,ASM,Vice Chairman of BOD/Deputy CEO
+135,5055,DAT,Vice Chairman of BOD
+136,2179,ASM,Deputy CEO
+137,2179,DAT,Chairman of BOD
+138,2179,IDI,Vice Chairman of BOD/CEO
+139,2009,ASM,Deputy CEO
+140,2009,IDI,Cheif of Internal Audit
+141,2942,ASM,Cheif of Internal Audit
+142,2942,DAT,Chief Accountant
+143,6342,AST,Chairman of BOD
+144,6342,PIV,Member of BOD
+145,3836,ATA,Chairman of BOD
+146,3836,KHB,Chairman of BOD
+147,421,ATA,Member of Supervisory Board
+148,421,KHB,/Member of Supervisory Board
+149,2031,ATB,Chairman of BOD
+150,2031,KSS,Director
+151,4169,ATD,Member of Supervisory Board
+152,4169,PHP,Member of Supervisory Board
+153,4169,V12,Member of Supervisory Board
+154,1916,ATD,Member of Supervisory Board
+155,1916,BSH,Chief of Supervisory Board
+156,4542,BAM,Chief of Supervisory Board
+157,4542,SCL,Member of Supervisory Board
+158,1665,BAX,Vice Chairman of BOD
+159,1665,TIP,Chairman of BOD
+160,7075,BBC,Chairman of BOD
+161,7075,DTT,Member of BOD
+162,1658,BBH,Member of BOD
+163,1658,BCC,Chairman of BOD
+164,7616,BBM,Chief Accountant
+165,7616,TC6,Member of Supervisory Board
+166,6301,BBM,Member of Supervisory Board
+167,6301,BTB,Member of Supervisory Board
+168,6301,HAD,Member of Supervisory Board
+169,6301,THB,Member of Supervisory Board
+170,4998,BBS,Chairman of BOD
+171,4998,BPC,Chairman of BOD
+172,4488,BBS,Chief of Supervisory Board
+173,4488,HAX,Finance Director/Chief Accountant
+174,4488,VC2,Member of Supervisory Board
+175,6883,BCE,Chairman of BOD
+176,6883,IJC,Vice Chairman of BOD
+177,6883,TDC,Member of BOD
+178,6883,TTN,Member of BOD
+179,4594,BCE,Chief of Supervisory Board
+180,4594,IBD,Member of BOD
+181,4594,LAS,Member of BOD
+182,4594,SRB,Member of Supervisory Board
+183,4594,TTN,Member of Supervisory Board
+184,2963,BCE,Member of BOD
+185,2963,IJC,Member of BOD
+186,2963,TDC,Member of BOD
+187,5044,BCE,Member of BOD
+188,5044,IJC,Member of BOD
+189,5044,TDC,Member of BOD
+190,3101,BCG,Chairman of BOD
+191,3101,TCD,Chairman of BOD
+192,4023,BCG,Permanent Vice Chairman of BOD/CEO
+193,4023,TCD,Vice Chairman of BOD
+194,183,BCG,Member of BOD
+195,183,TCD,Member of BOD
+196,3792,BCG,Deputy CEO/Member of BOD
+197,3792,TCD,Permanent Vice Chairman of BOD/CEO
+198,4915,BCG,Member of Supervisory Board
+199,4915,TCD,Chief of Supervisory Board
+200,4082,BCI,Member of BOD
+201,4082,KDH,Member of BOD
+202,1259,BDB,Chairman of BOD
+203,1259,DAD,Chief of Supervisory Board
+204,1259,HTP,Member of Supervisory Board
+205,348,BDB,Member of BOD
+206,348,UIC,Member of Supervisory Board
+207,9352,BDB,Member of Supervisory Board
+208,9352,DAD,Member of Supervisory Board
+209,7258,BDB,Member of Supervisory Board
+210,7258,BSD,Member of BOD
+211,1037,BED,Chairman of BOD
+212,1037,PDB,Chairman of BOD
+213,1539,BED,Member of BOD
+214,1539,PDB,Chief of Supervisory Board
+215,4624,BED,Member of Supervisory Board
+216,4624,PDB,Deputy CEO
+217,189,BFC,Chairman of BOD
+218,189,VPS,Chairman of BOD
+219,3027,BFC,Member of Supervisory Board
+220,3027,DRC,Member of BOD
+221,8107,BHG,Chairman of BOD
+222,8107,FGL,CEO/Member of BOD
+223,8173,BHG,CEO/Member of BOD
+224,8173,FGL,Chairman of BOD
+225,7019,BHG,Chief of Supervisory Board
+226,7019,FGL,Chief of Supervisory Board
+227,8154,BHG,Member of BOD
+228,8154,FGL,Member of BOD
+229,6703,BHG,Member of BOD
+230,6703,FGL,Member of BOD
+231,4761,BHG,Member of BOD
+232,4761,VIF,Deputy CEO/Member of BOD
+233,8110,BHG,Member of BOD
+234,8110,FGL,Member of BOD
+235,8110,PGC,Member of BOD
+236,2068,BHG,Member of Supervisory Board
+237,2068,FGL,Member of Supervisory Board
+238,4642,BHG,Member of Supervisory Board
+239,4642,ECI,Chief of Supervisory Board
+240,4642,EPH,Chief of Supervisory Board
+241,6650,BHK,Chairman of BOD
+242,6650,BHN,Deputy CEO
+243,6650,BQB,Member of BOD
+244,4620,BHK,/Chief of Supervisory Board
+245,4620,MHC,Member of Supervisory Board
+246,8840,BHN,Deputy CEO/Member of BOD
+247,8840,HRB,Member of BOD
+248,270,BHN,Deputy CEO
+249,270,THB,Chairman of BOD
+250,8449,BHS,Member of BOD
+251,8449,SBT,Member of BOD
+252,717,BHS,Member of BOD
+253,717,SBT,Member of Internal Audit/Member of BOD
+254,1792,BHS,Member of BOD
+255,1792,SBT,Deputy CEO
+256,3968,BHS,Member of Supervisory Board
+257,3968,GEG,Cheif of Internal Audit/Member of BOD
+258,3677,BHV,Chairman of BOD
+259,3677,DAC,Chairman of BOD
+260,4071,BHV,Chief of Supervisory Board
+261,4071,DAC,Chief of Supervisory Board
+262,8997,BHV,Member of BOD
+263,8997,VHL,Member of BOD
+264,8997,VIH,Member of BOD
+265,8997,VIT,Member of BOD
+266,7289,BHV,Member of BOD
+267,7289,DAC,Director/Member of BOD
+268,7998,BIC,Chairman of BOD
+269,7998,BID,Member of BOD
+270,7847,BIC,Deputy CEO
+271,7847,VNR,Chief of Supervisory Board
+272,4579,BIC,Member of Supervisory Board
+273,4579,NDF,Chief Accountant
+274,5758,BID,Member of BOD
+275,5758,BSI,Chairman of BOD
+276,8648,BMI,Chairman of BOD
+277,8648,MBB,Member of BOD
+278,2170,BMI,Member of BOD
+279,2170,CAG,Chairman of BOD
+280,5880,BMP,Member of BOD
+281,5880,FCM,Vice Chairman of BOD
+282,3801,BMP,Deputy CEO
+283,3801,CLM,Director/Member of BOD
+284,1352,BMP,Finance Director/Chief Accountant
+285,1352,DPC,Director/Member of BOD
+286,3367,BPC,Member of BOD
+287,3367,KSH,Chief Accountant
+288,6818,BRC,Member of BOD
+289,6818,HT1,Deputy CEO
+290,6818,TXM,Member of BOD
+291,7399,BRC,Member of Supervisory Board
+292,7399,TXM,Member of Supervisory Board
+293,2203,BSC,Chairman of BOD
+294,2203,BTT,Member of BOD
+295,2203,VNF,Chief of Supervisory Board
+296,4156,BSC,Chief of Supervisory Board
+297,4156,JVC,Vice Chairman of BOD
+298,116,BSC,Member of BOD
+299,116,GMC,Member of BOD
+300,116,TMS,Member of BOD
+301,9163,BSC,Member of Supervisory Board
+302,9163,VPR,Chief Accountant
+303,2903,BSD,Member of BOD
+304,2903,E1SSHN30,Chairman of BOD
+305,645,BSD,Member of BOD
+306,645,RCL,Member of BOD
+307,3865,BSI,Member of Supervisory Board
+308,3865,VCB,Deputy CEO
+309,2975,BSP,Chairman of BOD
+310,2975,STG,Chief Accountant
+311,6649,BTB,Chairman of BOD
+312,6649,HNR,Chairman of BOD
+313,7385,BTN,Director/Member of BOD
+314,7385,TBN,Chairman of BOD
+315,4621,BTN,Member of BOD
+316,4621,LIG,Chief Accountant
+317,5068,BTN,Member of Supervisory Board
+318,5068,CIG,Member of BOD
+319,5068,HTV,Member of BOD
+320,5068,TCJ,Member of BOD
+321,5068,VLF,Member of BOD
+322,1895,BTP,Member of BOD
+323,1895,PPC,Chief Accountant
+324,6835,BTS,Chairman of BOD
+325,6835,VTV,Chairman of BOD
+326,3824,BTT,Chief Accountant
+327,3824,CCI,Member of Supervisory Board
+328,3451,BTV,Chairman of BOD
+329,3451,SVC,Member of BOD
+330,906,BTV,Member of BOD
+331,906,SVC,Member of BOD
+332,7464,BTW,Member of BOD
+333,7464,CLW,Member of BOD
+334,5349,BVH,Chief Accountant
+335,5349,BVS,Chief of Supervisory Board
+336,2737,BVH,Director of Operations
+337,2737,TRA,Vice Chairman of BOD
+338,3150,BVS,Chairman of BOD
+339,3150,SPP,Member of BOD
+340,5805,BVS,CEO/Member of BOD
+341,5805,TH1,Member of BOD
+342,2556,BXH,Chairman of BOD
+343,2556,HCT,Chairman of BOD
+344,5071,BXH,Member of BOD
+345,5071,MVN,Deputy CEO
+346,4223,BXH,Member of Supervisory Board
+347,4223,EID,Member of Supervisory Board
+348,4223,TPH,Chief of Supervisory Board
+349,4087,C22,Member of Supervisory Board
+350,4087,OCH,Vice Chairman of BOD/Deputy CEO
+351,4087,OGC,Deputy CEO
+352,3291,C32,Chairman of BOD
+353,3291,DAD,Member of BOD
+354,3291,SMT,Member of BOD
+355,8459,C32,CEO
+356,8459,MDG,Chairman of BOD
+357,5999,C32,Chief of Supervisory Board
+358,5999,MDG,Member of BOD
+359,8144,C32,Member of BOD
+360,8144,DHA,CEO/Member of BOD
+361,8254,C47,Vice Chairman of BOD
+362,8254,DBD,Vice Chairman of BOD
+363,2828,C92,Member of Supervisory Board
+364,2828,NAU,Member of BOD
+365,3763,CAP,Chief of Supervisory Board
+366,3763,CSV,Member of BOD
+367,6437,CBI,Member of BOD
+368,6437,HGM,Chairman of BOD
+369,6437,PJC,Member of BOD
+370,5249,CBI,Deputy Director
+371,5249,VE3,Member of Supervisory Board
+372,4970,CC1,Member of BOD
+373,4970,LM8,Chief of Supervisory Board
+374,3941,CC1,Member of BOD
+375,3941,FCS,Member of BOD
+376,6726,CCI,Chief of Supervisory Board
+377,6726,GMX,Member of Supervisory Board
+378,5865,CCI,Member of BOD
+379,5865,VTH,/Member of BOD
+380,7890,CCI,Member of BOD
+381,7890,DSN,Member of BOD
+382,7890,DXG,Vice Chairman of BOD
+383,7890,SMT,Member of BOD
+384,8665,CDG,Member of Supervisory Board
+385,8665,LMC,Deputy Director
+386,4127,CDG,Member of Supervisory Board
+387,4127,HTV,Member of Supervisory Board
+388,4127,LEC,Member of Supervisory Board
+389,4127,SRB,Member of Supervisory Board
+390,7807,CDO,Member of BOD
+391,7807,TV2,Member of Supervisory Board
+392,4857,CDO,Member of Supervisory Board
+393,4857,SPI,Director/Member of BOD
+394,2222,CDP,Member of BOD
+395,2222,DBT,Chairman of BOD
+396,6637,CDP,Member of BOD
+397,6637,DBT,CEO/Member of BOD
+398,1836,CE1,Chairman of BOD
+399,1836,CEG,Chairman of BOD
+400,1836,MCT,Chairman of BOD/Director
+401,8290,CE1,CEO
+402,8290,CEG,Deputy CEO/Member of BOD
+403,7055,CE1,Member of BOD
+404,7055,CEG,Acting CEO
+405,8775,CE1,Member of BOD
+406,8775,CEG,Member of BOD
+407,649,CE1,Member of Supervisory Board
+408,649,CEG,Chief Accountant
+409,2282,CEE,Chairman of BOD
+410,2282,CII,Chairman of BOD
+411,2282,LGC,Chairman of BOD
+412,2282,SII,Chairman of BOD
+413,2393,CEE,Chief of Supervisory Board
+414,2393,NBB,Vice Chairman of BOD/CEO
+415,1821,CEE,Member of BOD
+416,1821,CII,CEO/Member of BOD
+417,1821,LGC,Member of BOD
+418,1821,SII,Member of BOD
+419,4303,CEE,Member of Supervisory Board
+420,4303,CII,Chief Accountant
+421,4996,CEE,Member of Supervisory Board
+422,4996,LGC,CEO
+423,4996,SII,Member of Supervisory Board
+424,9023,CEG,Member of Supervisory Board
+425,9023,MCT,Chief Accountant/Member of BOD
+426,3634,CHP,Member of BOD
+427,3634,REE,Deputy CEO
+428,3634,TBC,Chairman of BOD
+429,3634,TMP,Member of BOD
+430,3634,VSH,Member of BOD
+431,7918,CHS,Chairman of BOD
+432,7918,VTH,Member of BOD
+433,678,CII,Member of BOD
+434,678,LGC,Member of BOD
+435,3278,CII,Member of BOD
+436,3278,DCL,Member of BOD
+437,3299,CII,Deputy CEO/Member of BOD
+438,3299,SII,Member of BOD
+439,5200,CII,Deputy CEO
+440,5200,TLH,Member of BOD
+441,3735,CII,Director of Development Project  &amp; Capital Management
+442,3735,NBB,Chairman of BOD
+443,4658,CKV,Chief of Supervisory Board
+444,4658,MDC,Chief of Supervisory Board
+445,8673,CKV,Member of Supervisory Board
+446,8673,HFS,Member of Supervisory Board
+447,3576,CLL,Chairman of BOD
+448,3576,EPC,Deputy Director
+449,3576,KHL,Member of BOD
+450,4817,CLM,Chairman of BOD
+451,4817,VEE,Member of BOD
+452,5021,CLW,Chairman of BOD
+453,5021,KTB,Member of BOD
+454,7905,CLW,Member of BOD
+455,7905,DLR,Member of BOD
+456,7905,RCL,Chairman of BOD
+457,3826,CLW,Member of BOD
+458,3826,TDM,Member of BOD
+459,5748,CMC,Chairman of BOD
+460,5748,EBS,Chairman of BOD/Deputy CEO
+461,5748,ECI,Chairman of BOD
+462,5748,LTC,Chairman of BOD/Deputy CEO
+463,5748,SGD,Chairman of BOD/Deputy CEO
+464,5615,CMC,Member of BOD/CEO
+465,5615,EBS,Vice Chairman of BOD
+466,4848,CMC,Chief of Supervisory Board
+467,4848,ECI,Member of Supervisory Board
+468,1499,CMC,Member of BOD
+469,1499,SGD,Member of BOD
+470,4815,CMC,Chief Accountant/Deputy CEO/Member of BOD
+471,4815,EBS,Chief of Supervisory Board
+472,4815,ECI,Member of BOD
+473,4815,SGD,Member of BOD
+474,2166,CMG,Member of BOD
+475,2166,SHN,Member of BOD
+476,7378,CMS,Member of Internal Audit
+477,7378,LBE,Member of Supervisory Board
+478,2563,CMT,Member of BOD
+479,2563,OGC,Chairman of BOD
+480,5091,CMV,Member of BOD
+481,5091,VHC,Member of BOD
+482,3205,CNN,Deputy CEO
+483,3205,TTH,Chairman of BOD
+484,2230,COM,Member of BOD
+485,2230,VSI,Member of BOD
+486,9266,CSC,Chairman of BOD
+487,9266,VCG,Chairman of BOD
+488,9266,VCR,Member of BOD
+489,9033,CSC,Finance Director/Deputy CEO
+490,9033,HLD,Vice Chairman of BOD
+491,1758,CSM,Chairman of BOD
+492,1758,VAF,Chairman of BOD
+493,8618,CSM,Chief Accountant
+494,8618,PHR,Member of Supervisory Board
+495,8658,CSM,Member of Supervisory Board
+496,8658,HVT,Member of Supervisory Board
+497,2204,CSV,Chairman of BOD
+498,2204,FT1,Deputy Director/Member of BOD
+499,2538,CT6,Deputy CEO/Member of BOD
+500,2538,RHN,Deputy Director
+501,5000,CTC,Chief of Supervisory Board
+502,5000,VTD,Chief Accountant
+503,53,CTD,Chairman of BOD
+504,53,GMD,Member of BOD
+505,3483,CTD,Deputy CEO
+506,3483,NPS,Chairman of BOD
+507,2744,CTD,
+508,2744,SGO,Member of BOD
+509,1714,CTF,Member of BOD
+510,1714,TDH,Member of BOD
+511,3110,CTI,Member of BOD
+512,3110,IDC,Deputy CEO
+513,4850,CTS,Deputy CEO
+514,4850,HAP,
+515,5272,CTT,Chairman of BOD
+516,5272,VSI,Deputy CEO
+517,7189,CTX,Member of Supervisory Board
+518,7189,KHL,Member of BOD
+519,7189,KSA,Member of BOD
+520,7189,KSK,Member of BOD
+521,3509,CX8,Chief of Supervisory Board
+522,3509,PEN,Deputy Director
+523,3040,DAC,Member of BOD
+524,3040,VTS,Member of BOD
+525,4132,DAC,Member of Supervisory Board
+526,4132,PIV,Chief Accountant
+527,1742,DAD,Chief Accountant/Member of BOD
+528,1742,EFI,Member of BOD
+529,6586,DAD,Member of BOD
+530,6586,HTP,Member of BOD
+531,6586,QHW,Chief Accountant
+532,6586,TBN,Chief of Supervisory Board
+533,1024,DAD,Deputy CEO
+534,1024,IDN,Member of BOD
+535,8199,DAE,Chairman of BOD
+536,8199,EBS,Member of BOD
+537,1606,DAT,Deputy CEO
+538,1606,IDI,Member of Internal Audit
+539,6200,DCF,Finance Director
+540,6200,L14,Member of BOD
+541,5170,DCL,Chairman of BOD
+542,5170,FIT,Chairman of BOD
+543,4322,DCL,Vice Chairman of BOD/CEO
+544,4322,FIT,Vice Chairman of BOD/CEO
+545,4322,TSC,Chairman of BOD
+546,9716,DCL,Chief of Supervisory Board
+547,9716,FIT,Acting Director
+548,9716,TSC,Member of BOD
+549,3859,DCM,Deputy CEO
+550,3859,DP2,Member of BOD
+551,3859,E1SSHN30,Deputy CEO
+552,3859,FCN,Deputy CEO
+553,3859,FUESSV50,Deputy CEO
+554,3859,OGC,Member of Supervisory Board
+555,9236,DGC,Chairman of BOD
+556,9236,DGL,Chairman of BOD
+557,6720,DGC,Deputy CEO/Member of BOD
+558,6720,DGL,Member of BOD
+559,5255,DGL,Member of BOD
+560,5255,HOM,Chief of Supervisory Board
+561,2925,DGW,Member of BOD
+562,2925,DMC,Finance Director/
+563,8976,DHA,Chairman of BOD
+564,8976,FDT,Member of Supervisory Board
+565,8976,KHA,Member of BOD
+566,9817,DHA,Member of Supervisory Board
+567,9817,MDG,Member of BOD
+568,1787,DHC,Member of BOD
+569,1787,DTT,Chairman of BOD
+570,3818,DHC,Member of BOD
+571,3818,DTL,Vice Chairman of BOD/CEO
+572,9498,DHG,Chairman of BOD/Member of Internal Audit
+573,9498,VNM,Member of BOD
+574,3391,DHM,Member of BOD
+575,3391,POT,Member of Supervisory Board
+576,5064,DIC,Member of BOD
+577,5064,SCI,Cheif of Internal Audit
+578,5064,TC6,Chief of Supervisory Board
+579,9713,DL1,Chief of Supervisory Board
+580,9713,DLG,
+581,6288,DL1,Member of BOD
+582,6288,DLG,Deputy CEO
+583,2312,DMC,Chairman of BOD
+584,2312,SGC,Chairman of BOD
+585,4759,DNC,Chairman of BOD
+586,4759,TVC,Member of BOD
+587,4546,DNC,Chief of Supervisory Board
+588,4546,DSC,Member of BOD
+589,4546,NCT,Member of Supervisory Board
+590,4584,DNC,Member of Supervisory Board
+591,4584,KSS,Member of BOD
+592,4584,PDN,Chief of Supervisory Board
+593,2227,DNM,Member of BOD
+594,2227,GLW,Member of BOD
+595,5041,DNP,CEO/Member of BOD
+596,5041,TPP,Chairman of BOD
+597,5794,DNP,Vice Chairman of BOD
+598,5794,WTN,Member of BOD
+599,1224,DNP,Member of Internal Audit/Member of BOD
+600,1224,SAM,Vice Chairman of BOD
+601,4695,DP2,Vice Chairman of BOD
+602,4695,ECI,Member of Supervisory Board
+603,4695,SGD,Member of Supervisory Board
+604,414,DP2,Member of BOD
+605,414,JVC,Vice Chairman of BOD
+606,7775,DP2,Member of Supervisory Board
+607,7775,DPR,Member of Supervisory Board
+608,7775,LTC,Member of Supervisory Board
+609,895,DPM,Chairman of BOD
+610,895,PVC,CEO/Member of BOD
+611,8158,DPM,Member of BOD
+612,8158,PSW,Member of BOD
+613,416,DPM,Deputy CEO
+614,416,PCE,Chairman of BOD
+615,174,DPR,Member of Supervisory Board
+616,174,TRC,Member of Supervisory Board
+617,2968,DQC,Chief of Supervisory Board
+618,2968,SFI,CEO/Member of BOD
+619,7508,DQC,Deputy CEO
+620,7508,OCH,Member of BOD
+621,8187,DQC,Member of Supervisory Board
+622,8187,KHB,Member of BOD
+623,6021,DRH,Chairman of BOD
+624,6021,KSB,Chairman of BOD
+625,3346,DRL,Member of BOD
+626,3346,SEB,Member of BOD
+627,5339,DRL,Member of BOD
+628,5339,PRC,Chairman of BOD
+629,4271,DST,Chief of Supervisory Board
+630,4271,OGC,Member of BOD
+631,3867,DSV,Member of Supervisory Board
+632,3867,EBS,CEO/Member of BOD
+633,3867,SIP,Deputy CEO/Member of BOD
+634,3180,DTA,Chief of Supervisory Board
+635,3180,TDM,Member of BOD
+636,4997,DTL,Member of Internal Audit
+637,4997,STT,Deputy CEO
+638,8784,DVP,Chairman of BOD
+639,8784,DXP,Vice Chairman of BOD/CEO
+640,2729,DVW,Chairman of BOD
+641,2729,NSC,Chief of Supervisory Board
+642,2729,PAN,
+643,2729,PV2,Chairman of BOD
+644,2729,TAN,Member of Supervisory Board
+645,2729,VNR,Chairman of BOD
+646,5012,DXD,Member of BOD
+647,5012,MAC,Director/Member of BOD
+648,4966,DXG,Chief of Supervisory Board
+649,4966,LDG,Member of Supervisory Board
+650,3732,DXG,Member of Supervisory Board
+651,3732,LDG,Deputy CEO
+652,566,DXV,Chairman of BOD
+653,566,TMX,Chairman of BOD
+654,7929,DXV,Director/Member of BOD
+655,7929,HPS,Director/Member of BOD
+656,1965,E1SSHN30,CEO
+657,1965,FUESSV50,CEO
+658,3555,E1SSHN30,Deputy CEO
+659,3555,FUESSV50,Deputy CEO
+660,2415,E1SSHN30,Member of Supervisory Board
+661,2415,FUESSV50,Member of Supervisory Board
+662,9427,EBA,Chairman of BOD
+663,9427,S55,Director/Vice Chairman of BOD
+664,9427,SIC,Chairman of BOD
+665,2211,EBA,CEO
+666,2211,S55,Deputy Director
+667,8629,EBA,Chief of Supervisory Board
+668,8629,S55,Chief Accountant/Member of BOD
+669,5451,EBA,Member of Supervisory Board
+670,5451,S55,Deputy Director/Member of BOD
+671,1500,EBS,Member of BOD
+672,1500,LTC,Member of BOD
+673,1776,EFI,Member of BOD
+674,1776,SED,Member of BOD/Deputy CEO
+675,904,EIB,Member of BOD
+676,904,TH1,Chairman of BOD/CEO
+677,904,VCR,Member of BOD
+678,4118,EIC,Member of Supervisory Board
+679,4118,TNA,Member of Internal Audit
+680,4118,TPP,Cheif of Internal Audit/Member of BOD
+681,4508,ELC,Member of BOD
+682,4508,IPH,Deputy Director/Member of BOD
+683,4508,LM8,Member of Supervisory Board
+684,4280,EMC,/Chief of Supervisory Board
+685,4280,RLC,Chief Accountant
+686,4450,EMC,Member of Supervisory Board
+687,4450,GLW,Member of Supervisory Board
+688,4604,EPC,Member of Supervisory Board
+689,4604,VGS,Chief Accountant
+690,1174,FCM,Chairman of BOD
+691,1174,FCN,Vice Chairman of BOD
+692,6654,FCM,Director
+693,6654,FCN,Member of BOD
+694,1576,FDC,Chairman of BOD
+695,1576,TDH,Chairman of BOD
+696,6858,FDC,CEO/Member of BOD
+697,6858,TDH,Chief Accountant
+698,5315,FDC,Vice Chairman of BOD
+699,5315,TDH,CEO/Member of BOD
+700,1597,FDC,Deputy CEO
+701,1597,TDH,Deputy CEO
+702,4100,FDT,Vice Chairman of BOD
+703,4100,FRM,Chief of Supervisory Board
+704,4100,VGS,Member of Supervisory Board
+705,9756,FDT,Member of BOD
+706,9756,MEC,Member of BOD
+707,5888,FIT,Member of BOD
+708,5888,TSC,CEO/Member of BOD
+709,4177,FIT,Member of Supervisory Board
+710,4177,TSC,Member of Supervisory Board
+711,88,FLC,CEO/Member of BOD
+712,88,HAI,Chairman of BOD
+713,4643,FMC,Vice Chairman of BOD
+714,4643,NSC,Member of BOD
+715,4643,PAN,Vice Chairman of BOD/CEO
+716,913,FOX,CEO
+717,913,FPT,Deputy CEO
+718,1745,FOX,Member of BOD
+719,1745,PAI,Member of BOD
+720,7039,FOX,Member of BOD
+721,7039,FPT,Chairman of BOD
+722,7039,VCB,Member of BOD
+723,5087,FOX,Member of BOD
+724,5087,FPT,CEO
+725,9851,FOX,Member of Supervisory Board
+726,9851,IKH,Member of Supervisory Board
+727,2687,FRM,Member of BOD
+728,2687,GTN,Vice Chairman of BOD
+729,2687,LBE,Member of BOD
+730,2687,VDL,Vice Chairman of BOD
+731,2278,FSO,Chairman of BOD
+732,2278,TS4,Vice Chairman of BOD
+733,1727,FTM,Chairman of BOD
+734,1727,LHG,Vice Chairman of BOD
+735,4758,GAB,Chief Accountant
+736,4758,PIV,Member of BOD
+737,9474,GAB,Member of Supervisory Board
+738,9474,KLF,Chief of Supervisory Board
+739,3762,GAS,Deputy CEO
+740,3762,GMD,Deputy CEO/Member of BOD
+741,3762,KSK,Chairman of BOD
+742,3762,MHY,Vice Chairman of BOD
+743,3762,MST,Member of BOD
+744,6829,GAS,Deputy CEO
+745,6829,PVG,Member of BOD
+746,1038,GAS,Deputy CEO
+747,1038,TTN,Chairman of BOD
+748,731,GDT,Member of BOD
+749,731,PJT,Chief of Supervisory Board
+750,6511,GEG,Member of BOD
+751,6511,SCR,Deputy CEO
+752,1865,GEG,Deputy CEO
+753,1865,SCR,Deputy CEO
+754,6210,GEG,Member of Internal Audit/Member of BOD
+755,6210,SBT,Permanent Vice Chairman of BOD
+756,4021,GIC,Chairman of BOD
+757,4021,VSC,Technical Director/Member of BOD
+758,4961,GIC,Member of BOD
+759,4961,VSC,Member of BOD
+760,1630,GIL,Chairman of BOD
+761,1630,GMC,CEO/Member of BOD
+762,4933,GIL,Member of BOD
+763,4933,GMC,Member of BOD
+764,4933,KOS,Chairman of BOD
+765,4933,VIB,Member of BOD
+766,8020,GLC,Member of BOD
+767,8020,HKB,Member of BOD
+768,373,GLC,Member of BOD
+769,373,MC3,Member of BOD
+770,2799,GLC,Member of BOD
+771,2799,MC3,Director/Member of BOD
+772,7844,GLC,Member of Supervisory Board
+773,7844,MC3,Chief Accountant
+774,1502,GLT,Chairman of BOD
+775,1502,ITD,CEO/Member of BOD
+776,9775,GLT,Chief of Supervisory Board
+777,9775,ITD,Member of Supervisory Board
+778,3162,GLT,Member of BOD
+779,3162,ITD,Member of BOD
+780,5312,GLT,Member of BOD
+781,5312,ITD,Director/Member of BOD
+782,5201,GLW,CEO
+783,5201,SII,CEO/Member of BOD
+784,505,GLW,Member of BOD
+785,505,SII,Technical Director
+786,4186,GLW,Member of Supervisory Board
+787,4186,SII,Finance Director/Chief Accountant
+788,281,GMC,Chairman of BOD
+789,281,HTC,Member of BOD
+790,281,TMS,Chairman of BOD
+791,281,VNF,Vice Chairman of BOD
+792,281,VNT,Member of BOD
+793,281,VPR,Chairman of BOD
+794,5175,GMX,CEO/Member of BOD
+795,5175,HLC,Deputy Director
+796,5040,GMX,Deputy CEO
+797,5040,NDX,Member of BOD
+798,2592,GSP,Chairman of BOD
+799,2592,PVT,Deputy CEO/Member of BOD
+800,2929,GSP,Director/Member of BOD
+801,2929,PVT,Deputy CEO
+802,2091,GTA,Member of Supervisory Board
+803,2091,SIP,Member of Supervisory Board
+804,2566,GTN,Chairman of BOD
+805,2566,VNM,CEO/Member of BOD
+806,1873,GTN,Member of BOD
+807,1873,VNM,Finance Director/Chief Accountant/Member of BOD
+808,3030,GTN,
+809,3030,NDF,Member of BOD
+810,7968,HAD,Chairman of BOD
+811,7968,HNR,Member of BOD
+812,9132,HAG,Chairman of BOD
+813,9132,HNG,Chairman of BOD
+814,8446,HAG,CEO/Member of BOD
+815,8446,HNG,Member of BOD
+816,8417,HAG,Member of BOD
+817,8417,HNG,CEO/Member of BOD
+818,6370,HAS,Deputy CEO
+819,6370,VCB,CEO/Member of BOD
+820,3395,HAT,Chairman of BOD
+821,3395,VWS,Deputy CEO
+822,5122,HAT,Director/Member of BOD
+823,5122,VDS,Member of Supervisory Board
+824,9052,HAV,Director/Member of BOD
+825,9052,VTL,Director/Member of BOD
+826,3659,HAV,Member of BOD
+827,3659,SSM,Chief of Supervisory Board
+828,9355,HBC,Cheif of Internal Audit/Member of BOD
+829,9355,STG,Member of Internal Audit/Member of BOD
+830,4281,HBS,Chairman of BOD
+831,4281,VMD,Chairman of BOD
+832,3455,HBS,Chief Accountant
+833,3455,VMD,Member of BOD
+834,8276,HBS,Member of BOD
+835,8276,VMD,Deputy CEO
+836,2900,HBW,Director/Member of BOD
+837,2900,SED,Deputy CEO
+838,4811,HBW,Member of BOD
+839,4811,STW,Chairman of BOD
+840,5019,HCC,Deputy CEO
+841,5019,KSS,Member of BOD
+842,5019,PHP,Member of BOD
+843,5019,SHI,Member of BOD
+844,1893,HCM,Member of BOD
+845,1893,REE,Member of BOD
+846,1372,HCM,Member of BOD
+847,1372,NAF,Cheif of Internal Audit/Member of BOD
+848,6317,HCM,Executive Director
+849,6317,VHL,Chief of Supervisory Board
+850,2546,HDA,Chairman of BOD
+851,2546,KHL,Chairman of BOD/Director
+852,5178,HDA,CEO/Member of BOD
+853,5178,KHL,Member of BOD
+854,890,HDA,Member of Supervisory Board
+855,890,KHL,Member of BOD
+856,1905,HDB,Chairman of BOD
+857,1905,VNM,Chairman of BOD
+858,2445,HDB,Vice Chairman of BOD
+859,2445,VJC,Member of BOD
+860,482,HDB,Member of BOD
+861,482,VJC,Member of BOD
+862,482,VNF,Member of BOD
+863,7251,HDB,Deputy CEO
+864,7251,VJC,Deputy CEO
+865,5075,HDB,Deputy CEO
+866,5075,NVB,Vice Chairman of BOD
+867,6785,HDB,Finance Director
+868,6785,VJC,Member of Supervisory Board
+869,4436,HDB,Permanent Vice Chairman of BOD
+870,4436,VJC,Vice Chairman of BOD/CEO
+871,7224,HEV,Chief of Supervisory Board
+872,7224,VLA,Chief of Supervisory Board
+873,7272,HFS,Chief of Supervisory Board
+874,7272,LBC,Member of Supervisory Board
+875,7272,VTL,Chief of Supervisory Board
+876,6225,HFS,Member of BOD
+877,6225,TTJ,Member of BOD
+878,3853,HFS,Member of Supervisory Board
+879,3853,SFI,Chief Accountant
+880,3853,VFR,Chief of Supervisory Board
+881,4754,HGM,Member of BOD
+882,4754,KAC,Member of Supervisory Board
+883,4754,L62,Member of Supervisory Board
+884,4754,VNC,Member of Supervisory Board
+885,751,HHC,Member of Supervisory Board
+886,751,LTC,Member of Supervisory Board
+887,278,HHC,Member of Supervisory Board
+888,278,V12,Member of BOD
+889,2735,HHN,Director/Member of BOD
+890,2735,MKV,Member of BOD
+891,2735,PXS,Deputy Director
+892,2735,VNE,Chairman of BOD
+893,9628,HHS,Chairman of BOD
+894,9628,TCH,Chairman of BOD
+895,6102,HHS,Chief of Supervisory Board
+896,6102,TCH,Chief Accountant
+897,1310,HHS,Chief Accountant
+898,1310,TCH,Deputy CEO
+899,3998,HHS,Director
+900,3998,TCH,Deputy CEO
+901,4130,HHS,Member of BOD
+902,4130,TCH,Member of BOD
+903,9629,HHS,Member of BOD
+904,9629,TCH,Deputy CEO
+905,4764,HII,Member of BOD
+906,4764,VBC,Member of BOD
+907,3089,HJS,Chairman of BOD
+908,3089,SD9,CEO/Member of BOD
+909,3089,SDY,Member of BOD
+910,6582,HJS,Member of BOD
+911,6582,PTC,Chairman of BOD
+912,6582,SDY,Chairman of BOD
+913,2239,HKB,Chief Accountant
+914,2239,TDP,Finance Director/Deputy CEO/Member of BOD
+915,2980,HKT,Chairman of BOD
+916,2980,L10,Chief of Supervisory Board
+917,5343,HKT,Member of BOD
+918,5343,TST,Member of BOD
+919,7281,HKT,Deputy CEO/Member of BOD
+920,7281,MCG,Member of BOD
+921,4842,HLC,Chairman of BOD
+922,4842,TDN,Chairman of BOD
+923,6149,HLC,Member of BOD
+924,6149,NBC,Chairman of BOD
+925,6149,TC6,Chairman of BOD
+926,6149,TVD,Chairman of BOD
+927,4371,HLE,Member of Supervisory Board
+928,4371,SSM,Member of BOD
+929,2184,HND,Member of BOD
+930,2184,HVX,Member of BOD
+931,1713,HND,Member of BOD
+932,1713,TMP,Member of BOD
+933,8994,HOM,Chairman of BOD
+934,8994,HT1,Chairman of BOD
+935,8528,HOT,Vice Chairman of BOD
+936,8528,VND,Vice Chairman of BOD
+937,4389,HOT,Chief Accountant/Deputy CEO
+938,4389,HSG,Chief Accountant
+939,3415,HPG,Vice Chairman of BOD
+940,3415,HWS,Deputy CEO/Member of BOD
+941,9653,HPM,Chief Accountant
+942,9653,ONW,Member of Supervisory Board
+943,4159,HPM,Member of Supervisory Board
+944,4159,ONW,Deputy CEO/Member of BOD
+945,7151,HPS,Chief Accountant/Member of BOD
+946,7151,HVX,
+947,2709,HPX,Member of Supervisory Board
+948,2709,PLX,Member of BOD
+949,5155,HRC,Deputy CEO
+950,5155,YRC,Member of BOD
+951,2272,HSA,Chairman of BOD
+952,2272,PCC,Member of BOD
+953,122,HT1,Chief Accountant/Member of BOD
+954,122,HTV,Member of BOD
+955,4143,HTC,Member of BOD
+956,4143,PGI,Deputy CEO
+957,4143,REE,Member of Supervisory Board
+958,4143,STT,Member of Supervisory Board
+959,4429,HTG,Member of Supervisory Board
+960,4429,HTK,Chief of Supervisory Board
+961,3108,HTI,Chairman of BOD
+962,3108,TTJ,Member of BOD
+963,3108,VTL,Member of BOD
+964,7577,HTI,Member of BOD
+965,7577,UIC,Chairman of BOD
+966,5347,HTK,Member of Supervisory Board
+967,5347,TLP,Member of BOD
+968,4116,HTP,Chief of Supervisory Board
+969,4116,MHL,Chief of Supervisory Board
+970,7781,HU3,Member of Supervisory Board
+971,7781,TVU,Member of BOD
+972,1991,HUT,Member of Supervisory Board
+973,1991,TTL,Chief Accountant
+974,7490,HVT,Chairman of BOD
+975,7490,NET,Member of BOD
+976,4187,HVT,Member of Supervisory Board
+977,4187,QST,Chief of Supervisory Board
+978,6371,ICG,Member of BOD
+979,6371,X18,Chairman of BOD/Director
+980,929,IDC,Member of Supervisory Board
+981,929,INC,Chairman of BOD
+982,929,UIC,Chief of Supervisory Board
+983,7068,IDP,Member of Supervisory Board
+984,7068,KHA,Chief of Supervisory Board
+985,8148,IDV,Chairman of BOD
+986,8148,L18,Member of BOD
+987,3476,IDV,Deputy CEO/Cheif of Internal Audit/Member of BOD
+988,3476,L18,Member of Supervisory Board
+989,3386,IDV,Member of Internal Audit
+990,3386,QLD,Member of BOD
+991,3386,V21,Chief of Supervisory Board
+992,4597,IJC,Chief of Supervisory Board
+993,4597,TDC,Chief of Supervisory Board
+994,7561,IJC,Member of BOD
+995,7561,MCC,Member of BOD
+996,9451,KBC,Chairman of BOD
+997,9451,SGT,Chairman of BOD
+998,7332,KDC,Chairman of BOD
+999,7332,KDF,Chairman of BOD
+1000,7348,KDC,Vice Chairman of BOD/CEO
+1001,7348,KDF,Vice Chairman of BOD
+1002,7348,TAC,Chairman of BOD
+1003,7348,TLG,Member of BOD
+1004,4418,KDC,Chief Accountant
+1005,4418,KDF,Chief of Supervisory Board
+1006,4683,KDC,Deputy CEO/Member of BOD
+1007,4683,TAC,Member of BOD
+1008,4683,VPK,Chairman of BOD
+1009,7502,KDC,Deputy CEO/Member of BOD
+1010,7502,KDF,CEO/Member of BOD
+1011,3682,KDF,Member of BOD
+1012,3682,VDS,Member of BOD
+1013,3682,VKC,Member of BOD
+1014,4518,KDF,Member of BOD
+1015,4518,TAC,Member of BOD
+1016,6849,KDM,Chairman of BOD
+1017,6849,NDF,Chief of Supervisory Board
+1018,9251,KDM,Member of BOD
+1019,9251,SHI,Deputy CEO
+1020,7754,KHA,Member of BOD
+1021,7754,SVT,Member of BOD
+1022,7754,VID,Member of Supervisory Board
+1023,7754,VMS,Chief of Supervisory Board
+1024,6481,KHL,Chairman of BOD
+1025,6481,KSA,Chairman of BOD/CEO
+1026,7383,KHL,Chairman of BOD/Director
+1027,7383,KSK,CEO/Member of BOD
+1028,1486,KHL,Chief of Supervisory Board
+1029,1486,KSK,Member of BOD
+1030,7334,KHL,Member of BOD
+1031,7334,VHM,Member of BOD
+1032,4503,KHS,Member of Supervisory Board
+1033,4503,SHI,Chief of Supervisory Board
+1034,2562,KLB,Vice Chairman of BOD
+1035,2562,TTF,Chairman of BOD
+1036,7971,KLB,Member of BOD
+1037,7971,KLS,Deputy CEO/Member of BOD
+1038,3864,KLF,Chairman of BOD
+1039,3864,SHI,Deputy CEO
+1040,3864,SRC,Chief Accountant/Deputy CEO/Member of BOD
+1041,7662,KOS,Member of BOD
+1042,7662,OCH,Member of Supervisory Board
+1043,7662,VAV,Member of Supervisory Board
+1044,5528,KOS,Deputy CEO
+1045,5528,MEC,Deputy CEO
+1046,8218,KSB,Member of BOD
+1047,8218,SJ1,Member of BOD
+1048,8218,VCR,Member of Supervisory Board
+1049,4435,KSE,Chief Accountant
+1050,4435,SBT,Finance Director
+1051,4435,STT,Chief Accountant
+1052,8570,KSH,CEO
+1053,8570,KSK,Chairman of BOD
+1054,9030,KSH,Chief of Supervisory Board
+1055,9030,TEC,Chief Accountant
+1056,922,KSH,Chief of Supervisory Board
+1057,922,KSK,CEO/Member of BOD
+1058,9551,KSH,Member of BOD
+1059,9551,NHA,Member of BOD
+1060,3312,KSH,Member of BOD
+1061,3312,NHA,Chairman of BOD
+1062,9500,KSH,Deputy CEO/Member of BOD
+1063,9500,NHA,Chief of Supervisory Board
+1064,4645,KSK,Chief of Supervisory Board
+1065,4645,PVV,Member of Supervisory Board
+1066,7638,KSK,Member of Supervisory Board
+1067,7638,VSA,Member of Supervisory Board
+1068,9682,KST,Vice Chairman of BOD
+1069,9682,PTI,Deputy CEO
+1070,2048,KTC,Chief Accountant
+1071,2048,NGC,Member of Supervisory Board
+1072,9537,KTS,Chairman of BOD
+1073,9537,SLS,Chairman of BOD
+1074,7413,KTS,Member of BOD
+1075,7413,SLS,Vice Chairman of BOD/CEO
+1076,6975,KTS,Member of BOD
+1077,6975,SLS,Member of BOD/Deputy CEO
+1078,4629,KTS,Member of Supervisory Board
+1079,4629,SLS,Chief of Supervisory Board
+1080,4413,KTT,Member of BOD
+1081,4413,UNI,Chief Accountant
+1082,4157,KTU,Member of Supervisory Board
+1083,4157,SNZ,Deputy CEO/Member of BOD
+1084,4570,L10,Member of Supervisory Board
+1085,4570,SD9,Member of Supervisory Board
+1086,5250,L14,Deputy CEO
+1087,5250,PPC,Deputy CEO
+1088,803,L14,Member of Supervisory Board
+1089,803,LG9,Member of Supervisory Board
+1090,2712,L18,Member of BOD
+1091,2712,LG9,Chief of Supervisory Board
+1092,7412,L43,Member of Supervisory Board
+1093,7412,SBV,Chief Accountant
+1094,5139,L44,Chief of Supervisory Board
+1095,5139,SD2,Chairman of BOD
+1096,5153,L44,Member of BOD
+1097,5153,PVH,Deputy Director
+1098,8322,LAS,Member of Supervisory Board
+1099,8322,NFC,Member of Supervisory Board
+1100,3950,LBC,Member of BOD
+1101,3950,VTL,Member of BOD
+1102,2313,LBM,Chairman of BOD
+1103,2313,LHC,Chairman of BOD
+1104,1223,LBM,Member of BOD
+1105,1223,LHC,Chief Accountant/Vice Chairman of BOD
+1106,3325,LCG,Cheif of Internal Audit/Member of BOD
+1107,3325,LDG,CEO/Member of BOD
+1108,5928,LG9,Chairman of BOD
+1109,5928,TDA,Chairman of BOD
+1110,3469,LGL,Member of Supervisory Board
+1111,3469,MCG,CEO/Member of BOD
+1112,4653,LHG,
+1113,4653,SII,Member of BOD
+1114,5614,LTC,Member of BOD
+1115,5614,SGD,Member of BOD
+1116,1772,MAC,Member of BOD
+1117,1772,TMS,Deputy CEO
+1118,2792,MAC,Member of BOD
+1119,2792,TMS,Deputy CEO
+1120,2153,MBB,Member of BOD
+1121,2153,MBS,Chairman of BOD
+1122,5652,MBB,Member of BOD
+1123,5652,VFR,Member of BOD
+1124,1876,MBS,Deputy CEO
+1125,1876,MKV,Member of BOD
+1126,2621,MCC,Chairman of BOD
+1127,2621,NNC,Chairman of BOD
+1128,3105,MCC,Chief of Supervisory Board
+1129,3105,NHC,Chairman of BOD
+1130,4110,MCF,Member of BOD
+1131,4110,SAF,Member of BOD
+1132,7033,MCH,CEO/Member of BOD
+1133,7033,NET,Chairman of BOD
+1134,7033,VCF,Member of BOD
+1135,3736,MCH,Chief of Supervisory Board
+1136,3736,MSN,Chief of Supervisory Board
+1137,5492,MCH,Member of BOD
+1138,5492,MSN,Chairman of BOD
+1139,5492,TCB,Vice Chairman of BOD
+1140,3879,MCH,Member of BOD
+1141,3879,TCB,Vice Chairman of BOD
+1142,6222,MCH,Deputy CEO
+1143,6222,VCF,Chairman of BOD
+1144,3013,MCH,Deputy CEO/Member of BOD
+1145,3013,MSN,Member of BOD
+1146,3013,NET,Member of BOD
+1147,3013,VCF,Member of BOD
+1148,9158,MCH,Member of Supervisory Board
+1149,9158,MSN,Chief Accountant
+1150,9722,MCH,Member of Supervisory Board
+1151,9722,QHW,Member of Supervisory Board
+1152,1112,MCH,Finance Director
+1153,1112,NET,Member of BOD
+1154,1827,MCO,Member of BOD
+1155,1827,VIF,CEO/Member of BOD
+1156,7593,MDC,Chairman of BOD
+1157,7593,THT,Chairman of BOD
+1158,2266,MEC,Member of Supervisory Board
+1159,2266,TLP,Member of BOD
+1160,4628,MIG,Member of BOD
+1161,4628,NAF,Member of Supervisory Board
+1162,6777,MLC,Chairman of BOD
+1163,6777,TBX,Deputy Director/Member of BOD
+1164,3878,MSN,Deputy CEO/Member of BOD
+1165,3878,QHW,Member of BOD
+1166,6007,MSN,Member of Supervisory Board
+1167,6007,NET,Chief of Supervisory Board
+1168,6007,VCF,Chief Accountant
+1169,7592,MTS,Chairman of BOD
+1170,7592,TDN,Member of BOD
+1171,4230,NAC,Chief of Supervisory Board
+1172,4230,PXL,Chief of Supervisory Board
+1173,2094,NBB,Member of Supervisory Board
+1174,2094,SJC,Chief of Supervisory Board
+1175,6877,NBP,Member of BOD
+1176,6877,VSH,Member of Supervisory Board
+1177,7653,NCP,Chief of Supervisory Board
+1178,7653,SD2,Member of Supervisory Board
+1179,5304,NCP,Member of Supervisory Board
+1180,5304,VLA,Member of BOD
+1181,4935,NCT,Member of BOD
+1182,4935,QTP,Deputy CEO/Member of BOD
+1183,2472,NDN,Chairman of BOD/Deputy CEO
+1184,2472,NDX,CEO/Member of BOD
+1185,3650,NDN,CEO/Member of BOD
+1186,3650,NDX,Chairman of BOD
+1187,108,NDN,Member of BOD
+1188,108,NDX,Member of BOD
+1189,3926,NET,Member of Supervisory Board
+1190,3926,VCF,Member of Supervisory Board
+1191,3513,NFC,Member of BOD
+1192,3513,VAF,Member of BOD
+1193,1508,NHC,Member of BOD
+1194,1508,NNC,Member of BOD
+1195,6251,NHC,Member of BOD
+1196,6251,TCL,Member of Supervisory Board
+1197,1235,NHC,Member of Supervisory Board
+1198,1235,NNC,Member of Supervisory Board
+1199,3530,NKG,Member of BOD
+1200,3530,SMC,Vice Chairman of BOD/Deputy CEO
+1201,3174,NKG,Member of BOD
+1202,3174,SMC,Director
+1203,5372,NLG,Chairman of BOD/Member of Internal Audit
+1204,5372,YRC,Deputy Director
+1205,9372,NLG,Member of Internal Audit
+1206,9372,REE,Cheif of Internal Audit/Member of BOD
+1207,2281,NLS,Chairman of BOD
+1208,2281,SHE,Chairman of BOD
+1209,2281,SHI,Chairman of BOD
+1210,5612,NLS,Member of Supervisory Board
+1211,5612,NLS,Member of Supervisory Board
+1212,4551,NPS,Member of BOD
+1213,4551,PCG,Member of Supervisory Board
+1214,4551,SHN,Chief of Supervisory Board
+1215,6714,NRC,Member of Internal Audit
+1216,6714,TCO,Deputy CEO
+1217,3230,NSC,Member of BOD
+1218,3230,VFG,Member of Supervisory Board
+1219,4353,NSC,Member of Supervisory Board
+1220,4353,VAV,Member of Supervisory Board
+1221,4353,VPD,Member of Supervisory Board
+1222,175,NSL,Chief Accountant
+1223,175,TAC,CEO
+1224,5099,NT2,Member of Supervisory Board
+1225,5099,PVL,Chief of Supervisory Board
+1226,8993,NTL,Vice Chairman of BOD/Member of Internal Audit
+1227,8993,SEB,Chairman of BOD
+1228,7678,NTT,Chief of Supervisory Board
+1229,7678,VBH,Chief Accountant
+1230,3088,NTT,Deputy CEO
+1231,3088,VTH,Chairman of BOD
+1232,347,NVB,Member of BOD
+1233,347,VE3,
+1234,5468,NVB,Deputy CEO
+1235,5468,TCT,Member of BOD
+1236,5468,TTT,Member of BOD
+1237,1324,NVT,Member of BOD
+1238,1324,PSI,Member of BOD
+1239,2978,NVT,Member of BOD
+1240,2978,PGS,Member of BOD
+1241,2978,SVC,Member of BOD
+1242,2978,TNG,Member of BOD
+1243,3074,OCH,Chief of Supervisory Board
+1244,3074,OGC,Chief of Supervisory Board
+1245,3896,OCH,Member of BOD
+1246,3896,VPI,Deputy CEO
+1247,8844,OCH,Member of Supervisory Board
+1248,8844,OGC,Chief Accountant
+1249,4406,ONW,Member of Supervisory Board
+1250,4406,TS4,Member of BOD
+1251,8380,ORS,Member of BOD
+1252,8380,STK,Member of BOD
+1253,2904,PAN,Chairman of BOD
+1254,2904,SSI,Chairman of BOD
+1255,5326,PAN,Member of Internal Audit/Member of BOD
+1256,5326,VFG,Member of BOD
+1257,6690,PAN,Cheif of Internal Audit/Member of BOD
+1258,6690,SSI,Member of Internal Audit/Member of BOD
+1259,1915,PBK,Chief of Supervisory Board
+1260,1915,SIC,Chief Accountant
+1261,9048,PBK,Member of Supervisory Board
+1262,9048,S55,Member of Supervisory Board
+1263,9250,PCC,Member of BOD
+1264,9250,PLX,Deputy CEO
+1265,9250,VNR,Member of BOD
+1266,6434,PCE,Member of Supervisory Board
+1267,6434,PSE,Member of Supervisory Board
+1268,2264,PCN,Deputy Director
+1269,2264,VWS,CEO/Member of BOD
+1270,7538,PDN,Chairman of BOD
+1271,7538,SNZ,Deputy CEO/Member of BOD
+1272,1800,PDR,Member of Internal Audit/Member of BOD
+1273,1800,PNJ,Member of BOD
+1274,6488,PDV,Member of Supervisory Board
+1275,6488,PVV,Member of BOD
+1276,1274,PDV,Member of Supervisory Board
+1277,1274,SD6,Member of BOD
+1278,8762,PET,CEO/Member of BOD
+1279,8762,PSD,Director/Member of BOD
+1280,9319,PET,Deputy CEO
+1281,9319,PSD,Chairman of BOD
+1282,3601,PGC,Chairman of BOD
+1283,3601,PLX,Deputy CEO
+1284,4144,PGI,Deputy CEO
+1285,4144,TVA,Chief Accountant
+1286,1891,PIT,Chief of Supervisory Board
+1287,1891,PMS,Chief of Supervisory Board
+1288,7839,PIT,Member of BOD
+1289,7839,SDN,Member of BOD
+1290,7526,PLA,Member of Supervisory Board
+1291,7526,SHS,Chief Accountant/Deputy CEO
+1292,8299,PLC,Member of Supervisory Board
+1293,8299,PLX,Member of Supervisory Board
+1294,9426,PLX,Chief of Supervisory Board
+1295,9426,VIP,Member of BOD
+1296,3375,PME,Member of BOD
+1297,3375,STB,Vice Chairman of BOD
+1298,3375,VDS,Chairman of BOD
+1299,9531,PND,Member of Supervisory Board
+1300,9531,POB,Member of Supervisory Board
+1301,6993,PNJ,Member of BOD
+1302,6993,VNM,Member of BOD
+1303,6062,PPI,Member of BOD
+1304,6062,STB,Deputy CEO
+1305,2543,PPY,Member of BOD
+1306,2543,SMC,Member of BOD
+1307,4803,PQN,Chairman of BOD
+1308,4803,PVS,Deputy CEO
+1309,1550,PSC,Chief Accountant/Member of BOD
+1310,1550,SVC,Member of Supervisory Board
+1311,6128,PSC,Member of Supervisory Board
+1312,6128,STH,Deputy CEO
+1313,6128,VCB,Member of BOD
+1314,6135,PSI,Member of BOD
+1315,6135,PVI,Deputy CEO
+1316,7683,PTC,Chief Accountant
+1317,7683,SDY,Chief of Supervisory Board
+1318,2631,PTI,Member of BOD
+1319,2631,VNR,CEO/Member of BOD
+1320,4770,PTL,Chairman of BOD
+1321,4770,PVX,Deputy CEO
+1322,9117,PTL,Member of BOD
+1323,9117,PVH,Director
+1324,8885,PVH,Vice Chairman of BOD
+1325,8885,SHS,CEO/Member of BOD
+1326,9809,PVR,Member of BOD
+1327,9809,TCB,Vice Chairman of BOD
+1328,9863,PVT,Chief Accountant
+1329,9863,VPD,Member of BOD
+1330,4459,PVV,Chief of Supervisory Board
+1331,4459,V12,Chief of Supervisory Board
+1332,4459,VMC,Member of Supervisory Board
+1333,5590,PVX,Chief Accountant
+1334,5590,PXS,Member of BOD
+1335,5590,TV1,Member of BOD
+1336,470,PVX,Deputy CEO
+1337,470,PXS,Member of BOD
+1338,9072,PXL,Chairman of BOD
+1339,9072,PXS,Chairman of BOD
+1340,8565,PXS,Member of BOD
+1341,8565,PXT,Chairman of BOD
+1342,7991,PXS,Member of BOD
+1343,7991,PXT,Director
+1344,4213,QLD,Member of Supervisory Board
+1345,4213,TDP,Member of Supervisory Board
+1346,9543,QLT,Member of BOD
+1347,9543,SC5,Deputy CEO
+1348,5470,QNC,Permanent Vice Chairman of BOD
+1349,5470,TLG,CEO
+1350,7889,QTP,Chairman of BOD
+1351,7889,SAM,CEO/Member of BOD
+1352,3511,REE,Finance Director/Deputy CEO/Member of BOD
+1353,3511,TDW,Member of BOD
+1354,2528,REE,Investment Director
+1355,2528,TDW,Member of BOD
+1356,6781,S12,Chairman of BOD
+1357,6781,SJD,Chairman of BOD
+1358,9312,S12,Member of BOD
+1359,9312,TXM,Member of BOD
+1360,8134,S55,Chief of Supervisory Board
+1361,8134,SIC,Deputy CEO/Member of BOD
+1362,3160,S74,Chairman of BOD
+1363,3160,SD7,Chairman of BOD
+1364,7975,S74,CEO
+1365,7975,SD7,Member of BOD
+1366,9418,S74,Chief of Supervisory Board
+1367,9418,SD7,Chief Accountant/Member of BOD
+1368,6884,S74,Member of Supervisory Board
+1369,6884,SD7,Member of BOD
+1370,2850,S99,Chairman of BOD
+1371,2850,SCI,Member of BOD
+1372,5147,S99,CEO/Member of BOD
+1373,5147,SCI,Chairman of BOD
+1374,2835,S99,Member of BOD
+1375,2835,SCI,Director/Vice Chairman of BOD
+1376,1450,SAV,Chairman of BOD
+1377,1450,TCM,Member of BOD
+1378,1410,SAV,Member of BOD
+1379,1410,TCM,Member of BOD
+1380,7442,SAV,Member of BOD
+1381,7442,TCM,Vice Chairman of BOD/Deputy CEO
+1382,1401,SAV,Member of Supervisory Board
+1383,1401,TCM,Member of BOD
+1384,4813,SBH,Member of BOD
+1385,4813,VFR,Member of BOD
+1386,784,SBT,Cheif of Internal Audit/Member of BOD
+1387,784,VNG,Cheif of Internal Audit/Member of BOD
+1388,4543,SCH,Chief of Supervisory Board
+1389,4543,VDS,CEO
+1390,5529,SCI,Member of Internal Audit
+1391,5529,TAN,Member of BOD
+1392,5215,SCJ,Member of Supervisory Board
+1393,5215,X18,Deputy Director
+1394,4506,SCR,Chief Accountant
+1395,4506,TDW,Member of Supervisory Board
+1396,7586,SD2,Member of Supervisory Board
+1397,7586,SDC,Member of Supervisory Board
+1398,7194,SD5,Chairman of BOD
+1399,7194,SJS,CEO/Member of BOD
+1400,3153,SD5,Member of Supervisory Board
+1401,3153,SJD,Member of BOD
+1402,8542,SDD,Member of BOD
+1403,8542,SSU,Member of Supervisory Board
+1404,8800,SDE,Member of Supervisory Board
+1405,8800,VIS,Chief of Supervisory Board
+1406,8620,SDJ,Member of Supervisory Board
+1407,8620,TTH,Vice Chairman of BOD
+1408,9379,SDN,Chief of Supervisory Board
+1409,9379,SNZ,Member of Supervisory Board
+1410,1472,SDN,Member of BOD
+1411,1472,TKU,CEO/Member of BOD
+1412,9761,SED,Member of Supervisory Board
+1413,9761,SGD,Member of Supervisory Board
+1414,9678,SHB,Chairman of BOD
+1415,9678,SHS,Chairman of BOD
+1416,2329,SHB,Deputy CEO
+1417,2329,SHS,Member of BOD
+1418,6461,SHB,Member of Supervisory Board
+1419,6461,SHS,Chief of Supervisory Board
+1420,5802,SHE,Member of BOD
+1421,5802,SHI,Deputy CEO/Member of BOD
+1422,2132,SHP,Member of BOD
+1423,2132,TBC,Member of BOD
+1424,2132,TMP,Member of BOD
+1425,8887,SHS,Member of Supervisory Board
+1426,8887,TTL,Member of BOD
+1427,5329,SKH,Deputy CEO
+1428,5329,TH1,Member of Supervisory Board
+1429,5252,SNZ,Member of BOD
+1430,5252,SZL,Chairman of BOD
+1431,8984,SNZ,Deputy CEO/Member of BOD
+1432,8984,SZL,Member of BOD
+1433,4477,SSI,Finance Director
+1434,4477,VNE,Chief of Supervisory Board
+1435,7865,STG,Chairman of BOD
+1436,7865,TCS,Chief Accountant/Member of BOD
+1437,1140,STH,Member of Supervisory Board
+1438,1140,VIS,Member of Supervisory Board
+1439,143,SVT,Chairman of BOD
+1440,143,VID,Deputy CEO/Member of BOD
+1441,6554,SVT,CEO/
+1442,6554,VID,Member of BOD
+1443,4634,SVT,Chief of Supervisory Board
+1444,4634,VID,Chief Accountant
+1445,229,SVT,Member of BOD
+1446,229,VID,Member of Supervisory Board
+1447,146,SVT,Member of BOD
+1448,146,VID,CEO
+1449,4529,SVT,Vice Chairman of BOD/Deputy CEO
+1450,4529,VID,Vice Chairman of BOD/Deputy CEO
+1451,7699,T12,Member of Supervisory Board
+1452,7699,TSC,Member of Supervisory Board
+1453,1246,TAC,Member of Supervisory Board
+1454,1246,VPK,Member of BOD
+1455,5572,TAC,Member of Supervisory Board
+1456,5572,VPK,Chief of Supervisory Board
+1457,115,TAN,Member of BOD
+1458,115,VPR,Member of BOD
+1459,9246,TAP,Member of BOD
+1460,9246,USD,Member of BOD
+1461,3798,TBC,Deputy CEO
+1462,3798,VSH,Member of BOD
+1463,1960,TBX,Member of BOD
+1464,1960,X77,Member of BOD
+1465,3274,TCT,Chairman of BOD
+1466,3274,TTT,Chairman of BOD
+1467,112,TCT,Member of Supervisory Board
+1468,112,TTT,Chief of Supervisory Board
+1469,3138,TCW,Member of Supervisory Board
+1470,3138,VPD,Member of BOD
+1471,709,TDC,Chairman of BOD
+1472,709,TTN,Vice Chairman of BOD/CEO
+1473,7566,TET,Vice Chairman of BOD
+1474,7566,TNA,Member of Internal Audit
+1475,5383,TET,Member of BOD
+1476,5383,TNI,Deputy CEO
+1477,8859,THD,CEO/Member of BOD
+1478,8859,TVB,Member of BOD
+1479,2704,THT,Member of BOD
+1480,2704,TMB,Member of BOD
+1481,2033,TIE,Member of Supervisory Board
+1482,2033,TMX,Member of Supervisory Board
+1483,7659,TJC,Chief of Supervisory Board
+1484,7659,VNA,Member of Supervisory Board
+1485,1591,TMS,Vice Chairman of BOD/CEO
+1486,1591,VNF,Member of BOD
+1487,1591,VNT,Member of BOD
+1488,1591,VPR,Member of BOD
+1489,1992,TMS,Chief of Supervisory Board
+1490,1992,VNF,Chief Accountant
+1491,1992,VNL,Member of Supervisory Board
+1492,3113,TMS,Chief Accountant
+1493,3113,VNF,Member of Supervisory Board
+1494,3254,TMS,Member of Supervisory Board
+1495,3254,VPR,Deputy Director
+1496,5912,TMS,Member of Supervisory Board
+1497,5912,VNF,Member of Supervisory Board
+1498,5912,VNL,Chief of Supervisory Board
+1499,4575,TNI,Chief Accountant
+1500,4575,VTE,Chief Accountant
+1501,5232,TNW,Deputy CEO/Member of BOD
+1502,5232,VSC,CEO/Member of BOD
+1503,5747,TVA,Chief of Supervisory Board
+1504,5747,VIT,Chief of Supervisory Board
+1505,6423,TVB,Chairman of BOD
+1506,6423,TVC,Chairman of BOD
+1507,1215,TVB,Chief of Supervisory Board
+1508,1215,TVC,Member of Internal Audit
+1509,4733,TVB,Vice Chairman of BOD
+1510,4733,TVC,Member of BOD
+1511,117,TVB,Member of Supervisory Board
+1512,117,TVC,CEO
+1513,3168,TVH,Member of BOD
+1514,3168,VTH,Deputy CEO
+1515,3215,V12,Chairman of BOD
+1516,3215,VC1,Member of BOD
+1517,3215,VC9,Chairman of BOD
+1518,3215,VCG,Deputy CEO/Member of BOD
+1519,3215,VMC,Member of BOD
+1520,687,V12,Member of BOD
+1521,687,VC1,Chairman of BOD
+1522,687,VC9,Member of BOD
+1523,687,VCG,Permanent Deputy CEO/Member of BOD
+1524,687,VCM,Chairman of BOD
+1525,687,VCR,Chairman of BOD
+1526,687,VMC,Member of BOD
+1527,8812,VC1,Chief of Supervisory Board
+1528,8812,VC9,Chief of Supervisory Board
+1529,8812,VCC,Chief of Supervisory Board
+1530,8812,VCG,Chief of Supervisory Board
+1531,8812,VMC,Chief of Supervisory Board
+1532,5404,VC1,Member of BOD
+1533,5404,VC9,Member of BOD
+1534,5404,VCC,Chairman of BOD
+1535,5404,VCG,CEO/Member of BOD
+1536,5404,VCM,Member of BOD
+1537,5404,VMC,Chairman of BOD
+1538,4458,VC1,Member of Supervisory Board
+1539,4458,VCC,Member of Supervisory Board
+1540,4458,VCG,Finance Director/Deputy CEO
+1541,466,VC1,Member of Supervisory Board
+1542,466,VC9,Member of Supervisory Board
+1543,466,VCG,Member of Supervisory Board
+1544,466,VCM,Member of Supervisory Board
+1545,9441,VC6,Chief of Supervisory Board
+1546,9441,VCG,Chief Accountant
+1547,902,VC7,Chairman of BOD
+1548,902,VMC,Member of BOD
+1549,3241,VCC,Member of BOD
+1550,3241,VCG,Deputy CEO
+1551,8579,VCG,
+1552,8579,VCR,Member of BOD
+1553,3997,VE2,Deputy Director
+1554,3997,VE3,Chief of Supervisory Board
+1555,3997,VE4,Chief of Supervisory Board
+1556,7917,VE4,Chairman of BOD
+1557,7917,VNE,Deputy CEO
+1558,2212,VE8,Chairman of BOD
+1559,2212,VNE,Deputy CEO
+1560,1672,VGT,Member of BOD
+1561,1672,VIC,Vice Chairman of BOD
+1562,2885,VHM,Chairman of BOD
+1563,2885,VIC,Vice Chairman of BOD
+1564,6355,VHM,Member of BOD
+1565,6355,VIC,Chairman of BOD
+1566,6733,VHM,Deputy CEO
+1567,6733,VIC,Deputy CEO
+1568,6861,VIH,Chairman of BOD
+1569,6861,VIT,Director/Member of BOD
+1570,8499,VMD,Member of Supervisory Board
+1571,8499,VNR,Member of BOD
+1572,1045,VND,Member of Supervisory Board
+1573,1045,VNS,Member of BOD
+1574,2778,VNF,Chairman of BOD
+1575,2778,VNT,Member of BOD
+1576,7056,VNF,Member of BOD
+1577,7056,VNL,Member of BOD
+1578,7056,VNT,Member of BOD
+1579,8655,VNL,Chairman of BOD
+1580,8655,VNT,Member of BOD
+1581,7066,VPR,Chief of Supervisory Board
+1582,7066,WCS,Member of Supervisory Board
